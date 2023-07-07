@@ -1,4 +1,4 @@
-<p align="left">I work as a Software Engineer at Microsoft working on [Porter](https://porter.sh/)</p>
+I work as a Software Engineer at Microsoft working on [Porter](https://porter.sh/)
 
 ###
 
