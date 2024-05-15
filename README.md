@@ -2,7 +2,7 @@ I work as a Software Engineer and a Maintainer on [Porter](https://porter.sh/)
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">I'm the CEO of the Internet</h2>
 
 ###
 
